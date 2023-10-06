@@ -1,4 +1,6 @@
 # Covid-19_Dashboard_Tableau
+# Dashboard Tableau link 👇
+https://public.tableau.com/app/profile/abhijeet.kr.gupta/viz/Covid-19Analyiss/Dashboard1
 
 1. Analysed The covid -19 Data set with year 2020-2021
 2. optimised the logical attribute between the Death and survived.
